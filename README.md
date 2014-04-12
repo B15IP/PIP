@@ -1,4 +1,0 @@
-PIP
-===
-
-Proiect Ingineria Programarii
